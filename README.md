@@ -1,4 +1,4 @@
-# homework
+# setup file
 
 > A Vue.js project
 
